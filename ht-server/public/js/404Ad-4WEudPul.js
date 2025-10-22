@@ -1,0 +1,1 @@
+import{c as e}from"./index-ha8H78fv.js";const n={},t={class:"exception"},c=[Vue.createElementVNode("img",{src:"/png/404-b7Gc5Wq_.png",alt:""},null,-1)];const o=e(n,[["render",function(e,n){return Vue.openBlock(),Vue.createElementBlock("div",t,c)}]]);export{o as default};

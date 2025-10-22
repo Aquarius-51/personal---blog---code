@@ -1,0 +1,1 @@
+import{e}from"./index-ha8H78fv.js";const s=e("login",{state:()=>({userInfo:JSON.parse(window.sessionStorage.getItem("userinfo")||"{}")}),getters:{},actions:{setUserInfo(e){this.userInfo=e,window.sessionStorage.setItem("userinfo",JSON.stringify(e))},clearUserInfo(){window.sessionStorage.removeItem("userinfo")}}});export{s as l};
