@@ -1,0 +1,32 @@
+{
+    "children": [{
+        "component": "",
+        "createTime": "2024-01-04T08:24:55.871Z",
+        "icon": "",
+        "menuCode": "user-add",
+        "menuName": "用户新增",
+        "menuState": 1,
+        "menuType": 2,
+        "parentId": [
+                    "65966322d899b2c4454f3b8d"
+                ],
+        "path": "",
+        "updateTime": "2024-01-04T08:24:55.871Z",
+        "__v": 0,
+        "_id": "65966b57fefcc8b40f0923fe"
+    }],
+    "component": "UserAd",
+    "createTime": "2024-01-04T07:49:54.234Z",
+    "icon": "",
+    "menuCode": "",
+    "menuName": "用户管理",
+    "menuState": 1,
+    "menuType": 1,
+    "parentId": [
+        "659656820483f4b35e76bebe"
+    ],
+    "path": "/user",
+    "updateTime": "2024-01-04T07:49:54.234Z",
+    "__v": 0,
+    "_id": "65966322d899b2c4454f3b8d"
+}
